@@ -1,2 +1,2 @@
 print('поезд')
-print
+print ("my awesome program")
