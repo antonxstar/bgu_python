@@ -1,0 +1,5 @@
+name = input('Введите Ваше имя: ')
+print('Здравствуй, %s' % name)
+a = int(input('Введите 2 целых числа. Первое: '))
+b = int(input('Второе: '))
+print('a + b = %d, a -b = %d, a * b  = %d, a / b = %.3f' % (a + b, a - b, a * b, a / b))

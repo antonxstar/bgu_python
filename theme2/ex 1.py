@@ -1,2 +1,2 @@
 print('поезд')
-print ("my awesome program")
+print('поезд "Брест - Москва"')
