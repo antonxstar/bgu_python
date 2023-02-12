@@ -4,3 +4,4 @@ msg = 'Hi kids!' # строка выделяется одинарными или
 b = True # для обозначения логических констант используются зарезервированные слова True и False
 print(n,alpha,msg,b)
 print(type(n), type(alpha), type(msg), type(b))
+

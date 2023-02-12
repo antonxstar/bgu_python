@@ -7,3 +7,4 @@ print(city, two_cities, multiple_cities)
 # замена одного из элементов списка
 cities[1] = 'Новый Витебск'
 print(cities)
+cities[3:] = []
