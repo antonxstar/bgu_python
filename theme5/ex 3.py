@@ -8,3 +8,4 @@ print(city, two_cities, multiple_cities)
 cities[1] = 'Новый Витебск'
 print(cities)
 cities[3:] = []
+print(cities)
